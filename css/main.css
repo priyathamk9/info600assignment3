@@ -1,22 +1,29 @@
-div {
-  float: left;
-  margin-right: 2px;
-  vertical-align: bottom;
-}
-
-input, label {
-  display: block;
-  height: 1.1em;
-}
-
-br {clear: both;}
-h1 {font-size: 18px;}
-ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-}
-
-#buttonParent {
-  margin-top: 1.1em;
-}
+body 
+		{
+			padding-top: 5%;
+			font-size: 30pt;
+			font-family: Times New Roman, cursive;
+			background-color: #fef6dd;
+		}
+		div
+		{	
+			color:#2f24a9
+		}				
+		h3   
+		{
+			color: blue;
+		}
+		h4   
+		{
+			color:#3399ff;;
+		}
+		label 
+		{
+			color: #B4886B;
+			font-weight: bold;
+			width: 150px;
+		}
+		button
+		{
+			font-size: 16px;
+		}
